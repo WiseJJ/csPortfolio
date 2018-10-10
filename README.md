@@ -2,7 +2,7 @@
 
 * WebPage [here](https://wisejj.github.io/lightning2/)
 * Lightning [here](https://wisejj.github.io/lightning2/)
-
+* Chemotaxis [here](https://wisejj.github.io/chemotaxis4/)
 ```Java
  public void lightning1(){
     stroke(255,255,0);
