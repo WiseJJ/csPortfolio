@@ -2,6 +2,7 @@
 
 * WebPage [here](https://wisejj.github.io/lightning2/)
 * Lightning [here](https://wisejj.github.io/lightning2/)
+* Dice (has bug only works in processing) [here](https://wisejj.github.io/dice3/)
 * Chemotaxis [here](https://wisejj.github.io/chemotaxis4/)
 ```Java
  public void lightning1(){
