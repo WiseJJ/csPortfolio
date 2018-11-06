@@ -2,8 +2,9 @@
 
 * WebPage [here](https://wisejj.github.io/lightning2/)
 * Lightning [here](https://wisejj.github.io/lightning2/)
-* Dice (has bug only works in processing) [here](https://wisejj.github.io/dice3/)
-* Chemotaxis [here](https://wisejj.github.io/chemotaxis4/)
+* Dice (Bug with array lists) [here](https://wisejj.github.io/dice3/)
+* Chemotaxis (Bug with array lists) [here](https://wisejj.github.io/chemotaxis4/)
+* StarField (Bug with array lists) [here](https://wisejj.github.io/starfield5/)
 ```Java
  public void lightning1(){
     stroke(255,255,0);
