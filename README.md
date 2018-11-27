@@ -11,6 +11,7 @@
     <details><summary><strong> Dice </strong></summary>
   <p>
 * _Dice_ (Bug with array lists) [here](https://wisejj.github.io/dice3/)
+    
 * _Dice_ (Code) [here](https://github.com/WiseJJ/dice3)
 </details>  
     <details><summary><strong> Chemotaxis </strong></summary>
