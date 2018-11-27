@@ -1,6 +1,9 @@
 # Jonny's ACS Projects
-
+<details><summary><strong> Web Page </strong></summary>
+  <p>
 * _WebPage_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
+   
+   <details>
 * _Lightning_ [here](https://wisejj.github.io/lightning2/)
 * _Dice_ (Bug with array lists) [here](https://wisejj.github.io/dice3/)
 * _Chemotaxis_ (Bug with array lists) [here](https://wisejj.github.io/chemotaxis4/)
