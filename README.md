@@ -4,7 +4,7 @@
   <p>
 * _WebPage_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
     
-   *this code was challenging for me because i had no experiance using HTML and it took awhile to learn how to use it.
+   *This Website was my first try creating a website.
    </details>  
    <details><summary><strong> Lightning </strong></summary>
   <p>
