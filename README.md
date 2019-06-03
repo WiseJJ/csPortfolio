@@ -44,6 +44,12 @@
 * i thought this was a great project because it was the first time that i have every really looked into a college and really sparked my interest in my future
     </details> 
  
+  <details><summary><strong> Holy Text Reader </strong></summary>
+  <p>
+* _Readability_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
+    
+   *One of my first computer vision projects.
+   </details> \
  <details><summary><strong> Digital Spray Paint </strong></summary>
   <p>
 * _Spray Paint_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
