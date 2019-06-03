@@ -49,7 +49,7 @@
 * _Readability_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
     
    *One of my first computer vision projects.
-   </details> \
+   </details> 
  <details><summary><strong> Digital Spray Paint </strong></summary>
   <p>
 * _Spray Paint_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
