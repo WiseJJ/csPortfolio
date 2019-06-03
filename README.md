@@ -44,15 +44,3 @@
 * i thought this was a great project because it was the first time that i have every really looked into a college and really sparked my interest in my future
     </details> 
     
-*this is my hardest code... its the code to create lightning, and it took awhile for me to learn how to use random to properly make and manipulate the lightning too fit my project 
-```Java
- public void lightning1(){
-    stroke(255,255,0);
-  while(endX<=900){
-  endX = startX + (int)(Math.random()*9);
-  endY = startY + (int)((Math.random()*60)-30);
-  line(startX, startY, endX, endY);
-  startX= endX;
-  startY = endY;
-  }
-```
