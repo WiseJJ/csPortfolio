@@ -14,7 +14,6 @@
     </details> 
     <details><summary><strong> Dice </strong></summary>
   <p>
-* _Dice_ (Bug with array lists) [here](https://wisejj.github.io/dice3/) 
     
 * _Dice_ (Code) [here](https://github.com/WiseJJ/Dice)
 
@@ -30,9 +29,8 @@
     </details>  
     <details><summary><strong> StarField </strong></summary>
   <p>
-*_StarField_ (Bug with array lists) [here](https://wisejj.github.io/starfield5/)
     
-*_StarField_ (Bug with array lists) [here](https://github.com/WiseJJ/starfield5)
+*_StarField_ (Bug with array lists) [here](https://github.com/WiseJJ/StarField)
 
 * starfield was challenging for me because for some reason my sin and cos functions were not working properly until i rewrote them
     </details>
@@ -45,13 +43,13 @@
  
   <details><summary><strong> Holy Text Reader </strong></summary>
   <p>
-* _Readability_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
+* _Readability_ [here](https://github.com/WiseJJ/Readability)
     
    *One of my first computer vision projects.
    </details> 
  <details><summary><strong> Digital Spray Paint </strong></summary>
   <p>
-* _Spray Paint_ [here](https://wisejj.github.io/VacationPage/chinaPage/)
+* _Spray Paint_ [here](https://github.com/WiseJJ/DigitalSprayPaint)
     
    *One of my first computer vision projects.
    </details>  
