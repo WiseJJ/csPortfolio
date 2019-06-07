@@ -16,14 +16,13 @@
   <p>
 * _Dice_ (Bug with array lists) [here](https://wisejj.github.io/dice3/) 
     
-* _Dice_ (Code) [here](https://github.com/WiseJJ/dice3)
+* _Dice_ (Code) [here](https://github.com/WiseJJ/Dice)
 
 *overall i did not find dice very challenging after completing lightning
       </p>
 </details>  
     <details><summary><strong> Chemotaxis </strong></summary>
   <p>
-* _Chemotaxis_ (Bug with array lists) [here](https://wisejj.github.io/chemotaxis4/)
     
 * _Chemotaxis_ (Bug with array lists) [here](https://github.com/WiseJJ/chemotaxis4)
 
