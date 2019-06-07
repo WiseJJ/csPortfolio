@@ -8,7 +8,7 @@
    </details>  
    <details><summary><strong> Lightning </strong></summary>
   <p>
-* _Lightning_ [here](https://wisejj.github.io/lightning2/)
+* _Lightning_ [here](https://github.com/WiseJJ/ForkLightning)
     
   *this code was challenging for me because it was our first project this year with animation
     </details> 
